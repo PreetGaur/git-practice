@@ -17,3 +17,5 @@
 #merging
 
 merging means to merge
+
+--fast merge
