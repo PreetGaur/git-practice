@@ -15,3 +15,5 @@
 - or use git commit -m "<messages>"
 
 #merging
+
+merging means to merge
