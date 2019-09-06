@@ -9,6 +9,8 @@
 - git checkout -b
 - git log
 - git stash
+- git push
+- git remote -v 
 
 #git commit messages
 - either use vim
@@ -19,3 +21,5 @@
 merging means to merge
 
 --fast merge
+
+-- want to test remote
